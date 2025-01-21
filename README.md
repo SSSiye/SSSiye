@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Opencv](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSSiye&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSSiye&layout=compact&cache_seconds=1800)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSSiye&show_icons=true)<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
